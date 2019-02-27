@@ -59,7 +59,6 @@
         "labels": [],
         "friend_num": 0,
         "old_user": true,
-        "uid": 18549,
         "over_time": 0,
         "is_vip": false
     }
