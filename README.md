@@ -1,6 +1,6 @@
 # YoMe
 
-### usercenter , phone login
+### usercenter , phone login, update user, fblogin
 
 ```
 
