@@ -34,17 +34,17 @@
         "updated_at": "2019-02-27 03:39:16",
         "utc_created_at": "2019-02-26 06:24:09",
         "utc_updated_at": "2019-02-26 19:39:16",
-        "native": {
-            "id": 12,
-            "img": "https://zanzan.oss-cn-hangzhou.aliyuncs.com/yome/C9B5DB51-5802-20DF-7339-B24F8BA7E798-255B132DD14B7D97C95495081EB24E86",
-            "language": "中文",
-            "key": "中国",
-            "transfer": "zh",
-            "group": "C",
+        "native": [{
+            "id": 7,
+            "img": "https://zanzan.oss-cn-hangzhou.aliyuncs.com/yome/8B977731-E5F4-6C7E-9C49-89EBFC5F7270-255B132DD14B7D97C95495081EB24E86",
+            "language": "英语",
+            "key": "美国",
+            "transfer": "en",
+            "group": "E",
             "recommend": "0",
-            "created_at": "2018-10-25 19:40:12",
-            "updated_at": "2019-02-25 09:00:48"
-        },
+            "created_at": "2018-10-25 19:40:09",
+            "updated_at": "2019-02-25 09:00:43"
+        }],
         "target": [{
             "id": 7,
             "img": "https://zanzan.oss-cn-hangzhou.aliyuncs.com/yome/8B977731-E5F4-6C7E-9C49-89EBFC5F7270-255B132DD14B7D97C95495081EB24E86",
